@@ -1,0 +1,13 @@
+C:\Users\bahaa\source\repos\UseAdventureWorks\bin\Debug\UseAdventureWorks.exe.config
+C:\Users\bahaa\source\repos\UseAdventureWorks\bin\Debug\UseAdventureWorks.exe
+C:\Users\bahaa\source\repos\UseAdventureWorks\bin\Debug\UseAdventureWorks.pdb
+C:\Users\bahaa\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.SuggestedBindingRedirects.cache
+C:\Users\bahaa\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.Form1.resources
+C:\Users\bahaa\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.Properties.Resources.resources
+C:\Users\bahaa\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.GenerateResource.cache
+C:\Users\bahaa\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.exe
+C:\Users\bahaa\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.pdb
+C:\Users\bahaa\source\repos\UseAdventureWorks\bin\Debug\System.Data.SqlClient.dll
+C:\Users\bahaa\source\repos\UseAdventureWorks\bin\Debug\System.Data.SqlClient.xml
